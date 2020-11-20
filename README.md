@@ -6,7 +6,7 @@ This React.js video search application uses the Youtube API V3 to complete a vid
 
 # Technologies
 - React.js
-- JavaScript.js
+- JavaScript
 - CSS
 
 # Integrations
